@@ -1,6 +1,6 @@
 {
   "name": "adb-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MCP server for Android Debug Bridge (ADB) interactions in TypeScript",
   "main": "dist/index.js",
   "bin": {
