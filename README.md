@@ -1,4 +1,12 @@
-# ADB MCP Server
+# ARCHIVED -- Use [mobile-device-mcp](https://github.com/srmorete/mobile-device-mcp)
+Quite surprised that this repo reached 50 stars (!) the ecosystem is quite generous sometimes, thank you for starring it!
+
+I've been working on something that is faster, more scalable and also works with iOS, take a look at [mobile-device-mcp](https://github.com/srmorete/mobile-device-mcp).
+
+And leave some ⭐ too :) 
+
+
+## ADB MCP Server
 [![smithery badge](https://smithery.ai/badge/@srmorete/adb-mcp)](https://smithery.ai/server/@srmorete/adb-mcp)
 
 An MCP (Model Context Protocol) server for interacting with Android devices through ADB. This TypeScript-based tool provides a bridge between AI models and Android device functionality.
